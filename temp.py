@@ -1,3 +1,4 @@
+# Work with files
 # Open the file as read-only
 with open("workData.txt", "r") as work_data:
     work_data_contents = work_data.readlines()

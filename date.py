@@ -1,10 +1,10 @@
-#words = set()
-#for _ in range(int(input())):
+# words = set()
+# for _ in range(int(input())):
 #    words.update(input().split())
-#print(words)
-#print(len(words))
+# print(words)
+# print(len(words))
 
-#!/usr/bin/python
+# !/usr/bin/python
 
 from datetime import datetime
 
@@ -38,4 +38,4 @@ current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 print(current_time)
 print("Control sum: " + str(control_sum(current_time)))
 
-#print check(current_time + '\n' + "Control sum: " + str(control_sum(current_time)))
+# print check(current_time + '\n' + "Control sum: " + str(control_sum(current_time)))

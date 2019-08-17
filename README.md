@@ -1,3 +1,3 @@
 # Python_Tasks
 
-Any python tasks from different sources are.
+There are solutions of few python tasks (for stepik, lazy python, checkIO, e.t.c.).
